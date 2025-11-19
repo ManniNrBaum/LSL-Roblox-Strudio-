@@ -1,4 +1,4 @@
-# LSL-Roblox-Strudio-
+# LSL Roblox-Strudio
 A Live Scripting Language for Roblox Studio / Luau.
 
 What is LSL?
